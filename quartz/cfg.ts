@@ -74,7 +74,7 @@ export interface QuartzConfig {
 
 export interface FullPageLayout {
   head: QuartzComponent
-  header: QuartzComponent["nogulovescoffee"]
+  header: QuartzComponent['nogulovescoffee']
   beforeBody: QuartzComponent[]
   pageBody: QuartzComponent
   left: QuartzComponent[]
