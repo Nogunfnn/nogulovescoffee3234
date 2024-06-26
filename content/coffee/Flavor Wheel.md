@@ -1,0 +1,1 @@
+![[SCAA_FlavorWheel.01.18.15.jpg]]![[Journal of Sensory Studies - 2023 - Williams - Coffee is more than flavor the creation of a coffee character wheel(드래그함).pdf]]
