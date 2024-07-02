@@ -1,8 +1,7 @@
 ---
 title: NOGULOVESCOFFEE
-draft: false
+draft: true
 tags:
   - "#projectnlc"
 ---
  
-The rest of your content lives here. You can use **Markdown** here :)
